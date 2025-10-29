@@ -1,5 +1,5 @@
 # image_reg-classification
-# 📷 이미지 Classification vs Regression 정리
+# 이미지 Classification vs Regression 정리
 
 이미지를 활용한 딥러닝 문제는 크게 **Classification(분류)** 과 **Regression(회귀)** 으로 나뉜다.  
 이 둘의 핵심 차이는 **예측 결과가 “종류인지(범주)” vs “숫자인지(연속값)”** 에 있다.
